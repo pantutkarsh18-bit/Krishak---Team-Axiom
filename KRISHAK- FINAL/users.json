@@ -1,0 +1,6 @@
+{
+  "_comment": "Demo login accounts. Credentials live HERE (a config file), not hardcoded in the Python. For a real app, store password HASHES here instead of plain text.",
+  "farmer":   { "username": "krishak@123", "password": "krishak@123", "label": "Farmer" },
+  "consumer": { "username": "krishak@123", "password": "krishak@123", "label": "Consumer" },
+  "admin":    { "username": "krishak@123", "password": "krishak@123", "label": "Admin" }
+}
